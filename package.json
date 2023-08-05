@@ -1,0 +1,11 @@
+{
+  "name": "bad-bank",
+  "version": "1.0.0",
+  "description": "MIT MERN Capstone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron J. Brown",
+  "license": "MIT"
+}
